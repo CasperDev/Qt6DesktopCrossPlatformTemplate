@@ -16,8 +16,8 @@ Startup code for cross platform Desktop Application using Visual Studio 2022 and
 - Windows x86 Release
 - Linux Debug
 - Linux Release
-- macOS Debug
-- macOS Release
+- macOS Debug (not tested)
+- macOS Release (not tested)
 
 # Use
 
